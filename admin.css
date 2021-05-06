@@ -1,0 +1,16 @@
+.albreis-admin label {display:block;font-weight:bold;margin-bottom:5px;}
+.albreis-admin select,
+.albreis-admin textarea,
+.albreis-admin input[type="text"],
+.albreis-admin input[type="tel"],
+.albreis-admin input[type="password"] {border:none;background:#fff;width:100%;padding: 5px 15px;}
+.albreis-admin button {cursor:pointer;border:none;margin-top:30px;background-color:#71B382;color:#fff;padding: 5px 15px;text-transform:uppercase;text-align:center;width:120px;font-weight:bold;}
+.albreis-admin table {width:100%;margin-top:15px;}
+.albreis-admin table thead {background: #333;color:#fff;}
+.albreis-admin table th {padding: 5px 10px;text-align:left;}
+.albreis-admin table tbody td {padding: 5px 10px;}
+.albreis-admin table tbody tr:nth-child(even) {background:#ddd;}
+.albreis-admin table tbody tr:nth-child(odd) {background:#eee;}
+.albreis-admin .btn-add {cursor:pointer;border:none;display:block;margin-top:30px;text-decoration:none;background-color:#7182B3;color:#fff;padding: 5px 15px;text-transform:uppercase;text-align:center;width:160px;font-weight:bold;}
+.albreis-admin button.preview {width:200px;background:#111;}
+.albreis-admin {padding: 15px 15px 15px 0;}
